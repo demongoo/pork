@@ -17,4 +17,4 @@ Just post any content to `/` using HTTP POST, and see it using HTTP GET.
 
 For example, linux command line usage:
 
-    ps aux |  curl --data-binary @- http://your.app.url
+    ps aux | curl --data-binary @- http://your.app.url

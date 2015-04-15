@@ -1,1 +1,1 @@
-web: python pork.py 80
+web: python pork.py $PORT
